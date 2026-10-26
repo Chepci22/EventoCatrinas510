@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" role="img">
+  <defs>
+    <linearGradient id="paper" x2="0" y2="1">
+      <stop stop-color="#eee3ce"/><stop offset="1" stop-color="#bf7255"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#paper)" d="M0 0h800v900H0z"/>
+  <circle cx="407" cy="405" r="270" fill="#f8e6c9" opacity=".5"/>
+  <path fill="#49353a" d="M0 627h800v273H0z"/>
+  <path fill="#a9483e" d="M0 676h800v12H0z"/>
+  <path fill="#ce875a" d="M74 247h652v43H74z"/>
+  <path fill="#743e43" d="M88 290h619l-40 153-122 48H240l-112-53z"/>
+  <path fill="#f3dcad" d="M237 492h326v91H237z"/>
+  <path fill="#bf6546" d="M270 544h260v90H270z"/>
+  <path fill="#e0bc8e" d="M292 599h216v79H292z"/>
+  <path fill="#8a453f" d="M325 631h151v62H325z"/>
+  <g fill="#f0d8ab">
+    <path d="m149 294 33 59-33 60-34-60z"/><path d="m250 294 33 59-33 60-34-60z"/>
+    <path d="m351 294 33 59-33 60-34-60z"/><path d="m452 294 33 59-33 60-34-60z"/>
+    <path d="m553 294 33 59-33 60-34-60z"/><path d="m654 294 33 59-33 60-34-60z"/>
+  </g>
+  <g fill="#df9d5c">
+    <circle cx="182" cy="351" r="11"/><circle cx="283" cy="351" r="11"/><circle cx="384" cy="351" r="11"/>
+    <circle cx="485" cy="351" r="11"/><circle cx="586" cy="351" r="11"/><circle cx="687" cy="351" r="11"/>
+  </g>
+  <path fill="#e7c38e" d="M378 429h44v72h-44z"/><path fill="#392d35" d="M378 429c0-23 11-41 22-55 11 14 22 32 22 55h-44z"/>
+  <path fill="#f4da9e" d="M391 457h18v30h-18z"/>
+  <g fill="#65804d">
+    <path d="M0 639h209l-20 37H0zm593 0h207v37H604z"/>
+    <path d="m67 637 39-91 51 92zm523 0 50-91 38 91z"/>
+  </g>
+  <g fill="#e98739" stroke="#f4c477" stroke-width="4">
+    <circle cx="42" cy="657" r="20"/><circle cx="103" cy="654" r="17"/><circle cx="170" cy="655" r="20"/>
+    <circle cx="632" cy="657" r="20"/><circle cx="695" cy="654" r="17"/><circle cx="758" cy="657" r="20"/>
+  </g>
+  <g stroke="#514047" stroke-width="4">
+    <path d="M42 247V52M149 247V24M256 247V52M363 247V24M470 247V52M577 247V24M684 247V52M758 247V23"/>
+  </g>
+  <g>
+    <path fill="#b94f45" d="M24 49h39l-19 28zm-5-37h49v40H19z"/>
+    <path fill="#638052" d="M130 25h39l-20 28zm-5-37h49v40h-49z"/>
+    <path fill="#d18c45" d="M237 49h39l-20 28zm-5-37h49v40h-49z"/>
+    <path fill="#78627a" d="M344 25h39l-20 28zm-5-37h49v40h-49z"/>
+    <path fill="#b94f45" d="M451 49h39l-20 28zm-5-37h49v40h-49z"/>
+    <path fill="#638052" d="M558 25h39l-20 28zm-5-37h49v40h-49z"/>
+    <path fill="#d18c45" d="M665 49h39l-20 28zm-5-37h49v40h-49z"/>
+    <path fill="#78627a" d="M739 20h39l-20 28zm-5-37h49v40h-49z"/>
+  </g>
+  <g fill="#f9e7c4">
+    <path d="m94 107 8 17 19 3-14 13 3 19-16-9-17 9 4-19-14-13 19-3z"/>
+    <path d="m718 148 6 13 14 2-10 10 3 14-13-7-13 7 2-14-10-10 14-2z"/>
+    <circle cx="200" cy="145" r="5"/><circle cx="607" cy="106" r="5"/>
+  </g>
+  <path fill="#54383b" d="M0 847c106-55 201-31 290 4 90 34 179 42 260 1 91-47 174-55 250-24v72H0z"/>
+</svg>

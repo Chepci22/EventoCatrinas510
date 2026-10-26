@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "Noche de Catrinas — CECyTEM Cuautitlán Izcalli",
+  "short_name": "Noche de Catrinas",
+  "description": "Celebremos la tradición, el color y la belleza de nuestras raíces.",
+  "lang": "es-MX",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f6f1",
+  "theme_color": "#f8f4ed",
+  "icons": [
+    {
+      "src": "/images/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
